@@ -56,11 +56,7 @@ HotelPeace/
 🌐 *LIVE PREVIEW*
 
 🚀 *Launch Website Live:*  
-👉 [https://yourusername.github.io/HotelPeace/](https://yourusername.github.io/HotelPeace/)
-
-🛠 Replace yourusername with your actual GitHub username  
-✅ Example: https://alivadas.github.io/HotelPeace/
-
+👉 [https://Addas31.github.io/HotelPeace/](https://Addas31.github.io/HotelPeace/)
 
 👩‍💻 *ABOUT THE DEVELOPER*
 
@@ -75,7 +71,6 @@ HotelPeace/
 📘 This project is licensed for *educational and personal use only*.  
 🎨 All design elements and assets are used for demonstration purposes only.
 
----
 
 🙏 *A NOTE OF THANKS*
 
